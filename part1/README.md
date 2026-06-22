@@ -12,3 +12,6 @@ LibreWolf is a privacy-focused browser with no telemetry and enhanced security b
 
 ### 2. MPV (media player)
 MPV is a lightweight open-source media player that supports more codecs than the default player. It runs efficiently on low-resource systems and is highly configurable via terminal.
+
+### 3. Neovim + /etc/skel configuration
+Neovim is a modern terminal-based IDE. The configuration was placed in `/etc/skel/.config/nvim/` so every new user gets Neovim pre-configured with line numbers, mouse support, and syntax highlighting automatically.
