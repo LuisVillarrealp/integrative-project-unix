@@ -87,4 +87,5 @@ ftp 172.16.10.11
 ![alt text](image-7.png)
 
 ![alt text](image-8.png)
+
 The FTP server allows anonymous access without a password. A publicly exposed "backup" folder and "index.html" file were found. In a real environment this is critical because backups usually contain passwords, configurations or sensitive system data.
