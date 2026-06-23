@@ -16,5 +16,5 @@ MPV is a lightweight open-source media player that supports more codecs than the
 ### 3. Neovim + /etc/skel configuration
 Neovim is a modern terminal-based IDE. The configuration was placed in `/etc/skel/.config/nvim/` so every new user gets Neovim pre-configured with line numbers, mouse support, and syntax highlighting automatically.
 
-### 4. qBittorrent
-Free open-source torrent client with no ads or bundled software, replacing any proprietary alternatives included in the base distro.
+### 4. Default theme via gschema
+A custom gschema override file was created to set the dark theme as default for all users. This ensures the customization is persistent and applies system-wide, not just for one user.
