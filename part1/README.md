@@ -81,7 +81,7 @@ apt install mpv -y
 ```bash
 apt install neovim -y
 mkdir -p /etc/skel/.config/nvim
-cat > /etc/skel/.config/nvim/init.vim << 'EOF'
+tee /etc/skel/.config/nvim/init.vim << 'EOF'
 set number
 set mouse=a
 syntax on
@@ -123,7 +123,7 @@ glib-compile-schemas /usr/share/glib-2.0/schemas/
 | Filename      | `linuxmint-22-cinnamon-64bit-2026.06.22.iso`   |
 | Size          | 2.82 GiB (3,024,818,176 bytes)                 |
 | MD5 Checksum  | `4a8b1fc7bc62ef03282cfb3172d12ef8`             |
-`
+
 
 **ISO Download** 
 
