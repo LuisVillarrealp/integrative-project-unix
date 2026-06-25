@@ -29,3 +29,7 @@ qemu-system-x86_64 -cdrom dist/x86_64/kernel.iso
 - Tutorial: https://www.youtube.com/watch?v=FkrpUaGThTQ
 - Tutorial: https://www.youtube.com/watch?v=wz9CZBeXR6U
 - Base repo: https://github.com/davidcallanan/os-series 
+
+## Screenshot
+The kernel boots successfully in QEMU, displaying the custom group message in 64-bit long mode.
+![alt text](image.png)
