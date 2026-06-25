@@ -9,3 +9,6 @@
 - [Part 1](part1/) — Custom Linux distro with Cubic
 - [Part 2](part2/) — 64-bit kernel LujobyOS
 - [Part 3](part3/) — Black Hat Bash lab
+
+## Video
+[Full video](https://www.youtube.com/watch?v=HAl6zi0POUg)
